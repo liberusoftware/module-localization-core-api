@@ -13,4 +13,3 @@ final class LocalizationCoreApiServiceProvider extends ServiceProvider
         $this->loadRoutesFrom(__DIR__.'/../routes/api.php');
     }
 }
-
